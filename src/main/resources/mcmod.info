@@ -1,0 +1,16 @@
+[
+{
+  "modid": "amongus",
+  "name": "AmongUs",
+  "description": "AmongUs mod for AmongUs plugin",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DasBabyPixel"],
+  "credits": "AmongUs",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
